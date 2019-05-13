@@ -15,4 +15,7 @@ The software:
  - Is provided for sample/demo purposes only. Use at your own risk.
  - May not represent software best practices.
  - Can be copied and reused as seen fit by the recipient.
+ - May not include Apex test classes and may not be deployable to a production 
+   environment until such test classes are provided by the users of this
+   software.
 
